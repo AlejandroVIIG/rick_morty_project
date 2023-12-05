@@ -1,5 +1,5 @@
 {
-  "name": "template-react-javascript-vite-tailwindcss",
+  "name": "rick_morty_project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tabler/icons-react": "^2.42.0",
+    "axios": "^1.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
